@@ -2,7 +2,7 @@
 layout: post
 title: The Business of the 21t Century
 subtitle : Robert Kiyosaki
-tags: [DEI, Business, Psychology]
+tags: [Business]
 author: Robert Kiyosaki
 comments : False
 ---
